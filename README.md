@@ -1,63 +1,65 @@
 # Responsive Design with Bootstrap
 
-Use Responsive Design with Bootstrap Fluid Containers 
+### Step 1 - 31
 
-Make Images Mobile Responsive 
+1. Use Responsive Design with Bootstrap Fluid Containers 
 
-Center Text with Bootstrap
+2. Make Images Mobile Responsive 
 
-Create a Bootstrap Button 
+3. Center Text with Bootstrap
 
-Create a Block Element Bootstrap Button 
+4. Create a Bootstrap Button 
 
-Taste the Bootstrap Button Color Rainbow 
+5. Create a Block Element Bootstrap Button 
 
-Call out Optional Actions with Button Info 
+6. Taste the Bootstrap Button Color Rainbow 
 
-Warn your Users of a Dangerous Action 
+7. Call out Optional Actions with Button Info 
 
-Use the Bootstrap Grid to Put Elements Side By Side 
+8. Warn your Users of a Dangerous Action 
 
-Ditch Custom CSS for Bootstrap 
+9. Use the Bootstrap Grid to Put Elements Side By Side 
 
-Use Spans for Inline Elements 
+10. Ditch Custom CSS for Bootstrap 
 
-Create a Custom Heading 
+11. Use Spans for Inline Elements 
 
-Add Font Awesome Icons to our Buttons 
+12. Create a Custom Heading 
 
-Add Font Awesome Icons to all of our Buttons 
+13. Add Font Awesome Icons to our Buttons 
 
-Responsively Style Radio Buttons 
+14. Add Font Awesome Icons to all of our Buttons 
 
-Responsively Style Checkboxes 
+15. Responsively Style Radio Buttons 
 
-Style Text Inputs as Form Controls
+16. Responsively Style Checkboxes 
 
-Line up Form Elements Responsively with Bootstrap 
+17. Style Text Inputs as Form Controls
 
-Create a Bootstrap Headline 
+18. Line up Form Elements Responsively with Bootstrap 
 
-House our page within a Bootstrap Container Fluid Div 
+19. Create a Bootstrap Headline 
 
-Create a Bootstrap Row 
+20. House our page within a Bootstrap Container Fluid Div 
 
-Split your Bootstrap Row 
+21. Create a Bootstrap Row 
 
-Create Bootstrap Wells 
+22. Split your Bootstrap Row 
 
-Add Elements within your Bootstrap Wells 
+23. Create Bootstrap Wells 
 
-Apply the Default Bootstrap Button Style 
+24. Add Elements within your Bootstrap Wells 
 
-Create a Class to Target with jQuery Selectors 
+25. Apply the Default Bootstrap Button Style 
 
-Add ID Attributes to Bootstrap Elements 
+26. Create a Class to Target with jQuery Selectors 
 
-Label Bootstrap Wells 
+27. Add ID Attributes to Bootstrap Elements 
 
-Give Each Element a Unique ID 
+28. Label Bootstrap Wells 
 
-Label Bootstrap Buttons 
+29. Give Each Element a Unique ID 
 
-Use Comments to Clarify Code
+30. Label Bootstrap Buttons 
+
+31. Use Comments to Clarify Code
